@@ -1,4 +1,4 @@
-module github.com/ente-io/go-srp
+module github.com/ente/go-srp
 
 go 1.23
 
